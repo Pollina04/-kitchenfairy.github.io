@@ -1,0 +1,14 @@
+@font-face {
+    font-family: GilroyMedium;
+    src: url("fonts/gilroy-medium.ttf");
+}
+
+@font-face {
+    font-family: GilroySemibold;
+    src: url("fonts/gilroy-semibold.ttf");
+}
+
+@font-face {
+    font-family: GilroyRegular;
+    src: url("fonts/gilroy-regular.ttf");
+}
